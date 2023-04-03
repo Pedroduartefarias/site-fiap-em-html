@@ -1,0 +1,32 @@
+body{
+    background-image: url(FIAPBACKGROUND.png);
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+h2{
+    color: white;
+}
+a{
+    color: darkturquoise;
+    text-decoration: none;
+}
+a:visited{
+color: rgb(3, 217, 221);
+text-decoration: none;
+}
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+a:active{
+    color: indigo;
+    background-color: white;
+    text-decoration: underline;
+}
+ul{
+    color: rgb(3, 217, 221);
+}

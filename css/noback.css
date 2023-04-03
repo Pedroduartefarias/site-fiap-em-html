@@ -1,0 +1,29 @@
+body{
+    background-image: url(FIAPBACKGROUND.png)
+}
+p{
+    font-size: x-large;
+    color: white;
+    text-shadow: 3px 3px 3px black;
+    float: left;
+}
+h1{
+    color: white;
+    text-shadow: 3px 3px 3px rgb(68, 67, 67);
+}
+
+a{
+    font-size: x-large;
+    color: whitesmoke
+}
+a:visited{
+    color: lightblue;
+}
+a:hover{
+    color: rgb(0, 0, 255);
+    
+}
+a:active{
+    color: indigo;
+    text-decoration: underline;
+}
